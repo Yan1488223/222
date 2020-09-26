@@ -1,0 +1,46 @@
+﻿===========================================
+Log started at 25.03.2020 20:18:32
+===========================================
+Application name: dbForge Studio 2019 for MySQL
+Connection string: User Id=root;Host=localhost;Character Set=utf8
+
+Objects included in the script (Tables):
+toskin_classroom
+toskin_course
+toskin_day
+toskin_gender
+toskin_graduate
+toskin_graduate_time
+toskin_gruppa
+toskin_lesson_num
+toskin_otdel
+toskin_special
+toskin_student
+toskin_teacher
+toskin_user
+
+Objects included in the script (Views):
+
+Objects included in the script (Procedures):
+
+Objects included in the script (Functions):
+
+Objects included in the script (Events):
+Tables with data included in the script:
+toskin_gender (2 rows)
+toskin_user (12 rows)
+toskin_otdel (3 rows)
+toskin_special (6 rows)
+toskin_teacher (5 rows)
+toskin_course (7 rows)
+toskin_gruppa (7 rows)
+toskin_day (7 rows)
+toskin_student (7 rows)
+
+Objects included in the script (Triggers):
+
+Error count: 0
+Warning count: 0
+===========================================
+Log stopped at 25.03.2020 20:18:34
+===========================================
